@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpit8303/DSA/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Arpit8303/DSA/tree/master/3467-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Arpit8303/DSA/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Arpit8303/DSA/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
