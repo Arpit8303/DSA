@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Arpit8303/DSA/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/Arpit8303/DSA/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
