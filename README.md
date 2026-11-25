@@ -63,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arpit8303/DSA/tree/master/0070-climbing-stairs) |
 | [2652-sum-multiples](https://github.com/Arpit8303/DSA/tree/master/2652-sum-multiples) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arpit8303/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arpit8303/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
